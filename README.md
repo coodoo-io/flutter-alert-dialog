@@ -15,6 +15,6 @@ $ git clone https://github.com/coodoo-io/flutter-alert-dialog.git
 
 3. In den erstellten Ordner gehen und die App starten
 ```bash
-$ cd flutter-alertdialog
+$ cd flutter-alert-dialog
 $ flutter run
 ```
