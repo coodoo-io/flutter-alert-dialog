@@ -10,7 +10,7 @@ Ein Flutter Projekt welches ein Beispiel für eine Implementation von einem aler
 
 2. Repo via Terminal klonen
 ```bash
-$ git clone https://github.com/coodoo-io/flutter-alertdialog.git
+$ git clone https://github.com/coodoo-io/flutter-alert-dialog.git
 ```
 
 3. In den erstellten Ordner gehen und die App starten
